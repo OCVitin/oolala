@@ -15,8 +15,6 @@
 > ```npm install prisma --save-dev```
 > 
 > ```npx prisma init --datasource-provider sqlite```
-> 
-> ```npx prisma migrate dev --name init```
 
 ## Link para mais informações dos recursos utilizados:
 > Interface Date: https://bobbyhadz.com/blog/typescript-date-type
